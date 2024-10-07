@@ -1,0 +1,1 @@
+Possibilité d'afficher les séries de les ajoutés à nos séries, ajout d'amis et possibilité de bloquer / Possibility to display series and being able to add them to your series, add friends and the possibility to block

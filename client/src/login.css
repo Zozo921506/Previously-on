@@ -1,0 +1,33 @@
+body{
+    background-image: url(./image/séries.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.login{
+    text-align: center;
+    padding-top: 17%;
+}
+
+.title {
+    font-family: Arial, sans-serif;
+    color: white;
+    margin-bottom: 20px;
+    -webkit-text-stroke: 0.5px black;
+}
+
+.loginbouton {
+    background-color: #2596be;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.loginbouton:hover {
+    background-color: #1a7899; 
+}

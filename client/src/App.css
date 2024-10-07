@@ -1,0 +1,25 @@
+.white
+{
+  background-color: white;
+}
+
+.serie_link
+{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.serie_link a
+{
+  text-decoration: none;
+  color: black;
+  background-color: white;
+  padding: 1%;
+  border: 1px solid black;
+}
+
+.remove_serie
+{
+  background-color: white;
+  border: 1px solid black;
+}
